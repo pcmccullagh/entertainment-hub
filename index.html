@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Entertainment Tracker — Peter</title>
+<link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <h1>Entertainment Tracker</h1>
+    <p class="tagline">Movies · Music · TV · Books — my queue.</p>
+    <div class="controls">
+      <input type="search" id="search" placeholder="Search titles, artists, notes…" autocomplete="off">
+      <div class="filters" id="filters">
+        <button class="chip active" data-type="all">All</button>
+        <button class="chip" data-type="music">Music</button>
+        <button class="chip" data-type="movie">Movies</button>
+        <button class="chip" data-type="tv">TV</button>
+        <button class="chip" data-type="book">Books</button>
+      </div>
+    </div>
+  </div>
+</header>
+<main class="wrap">
+  <div id="grid" class="grid"></div>
+  <p id="empty" class="empty" hidden>Nothing matches — try a different search.</p>
+</main>
+<footer class="bottom wrap">
+  <p>Text Hermes any movie, album, show, or book and it lands here. · <span id="count"></span></p>
+</footer>
+<script src="assets/app.js"></script>
+</body>
+</html>

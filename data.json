@@ -1,0 +1,102 @@
+{
+  "entries": [
+    {
+      "id": "ultar-pantheon-mmxix",
+      "type": "music",
+      "title": "Pantheon MMXIX",
+      "artist": "Ultar",
+      "year": 2019,
+      "status": "to_listen",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f8/99/7b/f8997b78-d935-9fba-8c88-34f51ed4e6e8/614409999911_cover.jpg/600x600bb.jpg",
+      "links": {
+        "apple": "https://music.apple.com/us/album/pantheon-mmxix/1733570644?uo=4"
+      },
+      "notes": "Blackgaze. Johan Karlund's top 7 countdown.",
+      "rank": 7
+    },
+    {
+      "id": "alcest-kodama",
+      "type": "music",
+      "title": "Kodama",
+      "artist": "Alcest",
+      "year": 2016,
+      "status": "to_listen",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/24/8c/15/248c15c7-d25c-6ba5-d058-a44ba229834b/541.jpg/600x600bb.jpg",
+      "links": {
+        "apple": "https://music.apple.com/us/album/kodama/1556093973?uo=4"
+      },
+      "notes": "Blackgaze. Johan Karlund's top 7 countdown.",
+      "rank": 6
+    },
+    {
+      "id": "mol-jord",
+      "type": "music",
+      "title": "Jord",
+      "artist": "Møl",
+      "year": 2018,
+      "status": "to_listen",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4e/d4/88/4ed4884a-888a-2694-d7bc-22f78e2c83d8/cover.jpg/600x600bb.jpg",
+      "links": {
+        "apple": "https://music.apple.com/us/album/jord/1544736370?uo=4"
+      },
+      "notes": "Blackgaze. Johan Karlund's top 7 countdown.",
+      "rank": 5
+    },
+    {
+      "id": "somn-the-all-devouring",
+      "type": "music",
+      "title": "The All-Devouring",
+      "artist": "Somn",
+      "year": 2019,
+      "status": "to_listen",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/08/7b/98/087b98b0-c033-e6b2-a7f6-9cc8cee88725/193428596894.jpg/600x600bb.jpg",
+      "links": {
+        "apple": "https://music.apple.com/us/album/the-all-devouring/1450304351?uo=4"
+      },
+      "notes": "Blackgaze. Johan Karlund's top 7 countdown.",
+      "rank": 4
+    },
+    {
+      "id": "so-hideous-laurestine",
+      "type": "music",
+      "title": "Laurestine",
+      "artist": "So Hideous",
+      "year": 2015,
+      "status": "to_listen",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/95/81/66/9581666d-4175-dc8f-cf41-52a163496b7d/656191925228.jpg/600x600bb.jpg",
+      "links": {
+        "apple": "https://music.apple.com/us/album/laurestine/1019458242?uo=4"
+      },
+      "notes": "Blackgaze. Johan Karlund's top 7 countdown.",
+      "rank": 3
+    },
+    {
+      "id": "show-me-a-dinosaur-plantgazer",
+      "type": "music",
+      "title": "Plantgazer",
+      "artist": "Show Me A Dinosaur",
+      "year": 2020,
+      "status": "to_listen",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ca/dd/42/cadd4287-fd03-f84b-aec1-752df850b466/859743250261_cover.jpg/600x600bb.jpg",
+      "links": {
+        "apple": "https://music.apple.com/us/album/plantgazer/1537945823?uo=4"
+      },
+      "notes": "Blackgaze. Johan Karlund's top 7 countdown.",
+      "rank": 2
+    },
+    {
+      "id": "deafheaven-sunbather",
+      "type": "music",
+      "title": "Sunbather",
+      "artist": "Deafheaven",
+      "year": 2013,
+      "status": "to_listen",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/67/52/b2/6752b2b0-43c7-7bfb-16ac-d6c7f605c898/888002414861.jpg/600x600bb.jpg",
+      "links": {
+        "apple": "https://music.apple.com/us/album/sunbather/652038965?uo=4"
+      },
+      "notes": "Blackgaze. The genre-defining release that brought blackgaze to a wider audience. Johan Karlund's #1 pick.",
+      "rank": 1
+    }
+  ]
+}
