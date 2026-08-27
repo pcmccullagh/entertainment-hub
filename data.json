@@ -97,6 +97,19 @@
       },
       "notes": "Blackgaze. The genre-defining release that brought blackgaze to a wider audience. Johan Karlund's #1 pick.",
       "rank": 1
+    },
+    {
+      "id": "false-memory-anime",
+      "type": "tv",
+      "title": "False Memory",
+      "artist": "Memory Management Bureau (记忆管理局)",
+      "year": 2026,
+      "status": "to_watch",
+      "cover": "https://i.ytimg.com/vi/yfz2c9LE6ew/maxresdefault.jpg",
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=EWGlwtMQFZA"
+      },
+      "notes": "Chinese donghua. Protagonists delve into people's memories to erase/heal the monsters that live there. Streaming free on YouTube."
     }
   ]
 }
