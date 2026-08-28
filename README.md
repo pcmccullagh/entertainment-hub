@@ -6,18 +6,20 @@ Live at: **https://pcmccullagh.github.io/entertainment-hub/**
 
 ## Source of truth
 
-**This Dell box** (`/home/peter/workspace/entertainment-hub/`) is the canonical source of truth for the entertainment library. The GitHub repo + Pages site are the published mirror.
+**The second brain** (`~/second-brain/entertainment/**/*.md` on the Dell) is the canonical record. Each item is a markdown file with YAML frontmatter (type, title, artist, year, cover, links, tags) + a notes body.
 
-Workflow for Hermes:
-1. Edit `data.json` locally on the Dell (this repo).
-2. Commit + push to `main` → GitHub Pages serves the updated site.
+**This repo** (`data.json` + static site) is the *published mirror* — GitHub Pages serves it for browsing. `data.json` is generated, never hand-edited.
 
-## How it works
+## Publishing
 
-- `data.json` — the database. Each entry is categorized (`music` / `movie` / `tv` / `book`) with a cover image and links to stream / listen / buy.
-- `index.html` + `assets/app.js` + `assets/app.css` — a static single-page app: search bar + type filters, rendered from `data.json`.
-- No build step. Edit `data.json`, push to `main`, and GitHub Pages serves it.
+The sync script reads the second brain markdown and regenerates + pushes the library:
+
+```
+python3 /home/peter/.hermes/scripts/sync_entertainment.py
+```
+
+It: scans `~/second-brain/entertainment/` → parses frontmatter → writes `data.json` → commits + pushes to `main` → GitHub Pages updates.
 
 ## Adding items
 
-Text Hermes anything — a movie, album, show, or book — and it's added to `data.json` (on the Dell) with the right category, cover, and links, then pushed to publish.
+Text Hermes anything — a movie, album, show, or book — and it's added as a markdown file in the second brain, then synced to publish.
