@@ -4,6 +4,14 @@ Peter's entertainment tracker — a browsable, searchable queue of movies, music
 
 Live at: **https://pcmccullagh.github.io/entertainment-hub/**
 
+## Source of truth
+
+**This Dell box** (`/home/peter/workspace/entertainment-hub/`) is the canonical source of truth for the entertainment library. The GitHub repo + Pages site are the published mirror.
+
+Workflow for Hermes:
+1. Edit `data.json` locally on the Dell (this repo).
+2. Commit + push to `main` → GitHub Pages serves the updated site.
+
 ## How it works
 
 - `data.json` — the database. Each entry is categorized (`music` / `movie` / `tv` / `book`) with a cover image and links to stream / listen / buy.
@@ -12,4 +20,4 @@ Live at: **https://pcmccullagh.github.io/entertainment-hub/**
 
 ## Adding items
 
-Text Hermes anything — a movie, album, show, or book — and it's added to `data.json` with the right category, cover, and links.
+Text Hermes anything — a movie, album, show, or book — and it's added to `data.json` (on the Dell) with the right category, cover, and links, then pushed to publish.
