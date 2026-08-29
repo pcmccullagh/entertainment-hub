@@ -123,6 +123,20 @@
         "youtube": "https://www.youtube.com/watch?v=EWGlwtMQFZA"
       },
       "notes": "Chinese donghua. Protagonists delve into people's memories to erase/heal the monsters that live there. Streaming free on YouTube.\n\n[[entertainment/index|Library]]"
+    },
+    {
+      "id": "tony",
+      "type": "movie",
+      "title": "Tony",
+      "status": "to_watch",
+      "artist": "Matt Johnson",
+      "year": 2026,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/6/68/Tony_%282026_film%29_poster.jpg",
+      "links": {
+        "justwatch": "https://www.justwatch.com/us/movie/tony-2026",
+        "fandango": "https://www.fandango.com/tony-2026-245704/movie-overview"
+      },
+      "notes": "Tony (2026) — A24 biopic about a 19-year-old Anthony Bourdain (Dominic Sessa)\nwho travels to Provincetown and stumbles into the chaotic world of a\nrestaurant kitchen, setting off the journey that made him a legend.\n\nReleased Aug 21, 2026. **94% on Rotten Tomatoes.** In theaters now — watch\nfor streaming/rental.\n\n[[entertainment/index|Library]]"
     }
   ]
 }
