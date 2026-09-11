@@ -1,121 +1,22 @@
 {
   "entries": [
     {
-      "id": "show-me-a-dinosaur-plantgazer",
-      "type": "music",
-      "title": "Plantgazer",
-      "status": "to_listen",
-      "artist": "Show Me A Dinosaur",
-      "year": 2020,
-      "rank": 2,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ca/dd/42/cadd4287-fd03-f84b-aec1-752df850b466/859743250261_cover.jpg/600x600bb.jpg",
+      "id": "little-shrew",
+      "type": "book",
+      "title": "Little Shrew",
+      "status": "to_buy",
+      "artist": null,
+      "year": 2024,
+      "cover": "https://covers.openlibrary.org/b/isbn/9781525313035-L.jpg",
       "links": {
-        "apple": "https://music.apple.com/us/album/plantgazer/1537945823?uo=4"
+        "publisher": "https://kidscanpress.com/product/little-shrew/"
       },
       "tags": [
-        "blackgaze",
-        "post-metal",
-        "shoegaze",
-        "metal"
+        "picture-book",
+        "kids",
+        "for-tuesday"
       ],
-      "notes": "Blackgaze. Johan Karlund's top 7 countdown.\n\nRelated: [[entertainment/music/deafheaven-sunbather|Deafheaven Sunbather]] · [[entertainment/music/somn-the-all-devouring|Somn The All Devouring]]\n\n[[entertainment/index|Library]]"
-    },
-    {
-      "id": "so-hideous-laurestine",
-      "type": "music",
-      "title": "Laurestine",
-      "status": "to_listen",
-      "artist": "So Hideous",
-      "year": 2015,
-      "rank": 3,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/95/81/66/9581666d-4175-dc8f-cf41-52a163496b7d/656191925228.jpg/600x600bb.jpg",
-      "links": {
-        "apple": "https://music.apple.com/us/album/laurestine/1019458242?uo=4"
-      },
-      "tags": [
-        "blackgaze",
-        "post-metal",
-        "metal",
-        "orchestral"
-      ],
-      "notes": "Blackgaze. Johan Karlund's top 7 countdown.\n\nRelated: [[entertainment/music/somn-the-all-devouring|Somn The All Devouring]] · [[entertainment/music/deafheaven-sunbather|Deafheaven Sunbather]]\n\n[[entertainment/index|Library]]"
-    },
-    {
-      "id": "somn-the-all-devouring",
-      "type": "music",
-      "title": "The All-Devouring",
-      "status": "to_listen",
-      "artist": "Somn",
-      "year": 2019,
-      "rank": 4,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/08/7b/98/087b98b0-c033-e6b2-a7f6-9cc8cee88725/193428596894.jpg/600x600bb.jpg",
-      "links": {
-        "apple": "https://music.apple.com/us/album/the-all-devouring/1450304351?uo=4"
-      },
-      "tags": [
-        "blackgaze",
-        "post-metal",
-        "metal"
-      ],
-      "notes": "Blackgaze. Johan Karlund's top 7 countdown.\n\nRelated: [[entertainment/music/so-hideous-laurestine|So Hideous Laurestine]] · [[entertainment/music/show-me-a-dinosaur-plantgazer|Show Me A Dinosaur Plantgazer]]\n\n[[entertainment/index|Library]]"
-    },
-    {
-      "id": "mol-jord",
-      "type": "music",
-      "title": "Jord",
-      "status": "to_listen",
-      "artist": "Møl",
-      "year": 2018,
-      "rank": 5,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4e/d4/88/4ed4884a-888a-2694-d7bc-22f78e2c83d8/cover.jpg/600x600bb.jpg",
-      "links": {
-        "apple": "https://music.apple.com/us/album/jord/1544736370?uo=4"
-      },
-      "tags": [
-        "blackgaze",
-        "post-metal",
-        "metal"
-      ],
-      "notes": "Blackgaze. Johan Karlund's top 7 countdown.\n\nRelated: [[entertainment/music/alcest-kodama|Alcest Kodama]] · [[entertainment/music/deafheaven-sunbather|Deafheaven Sunbather]]\n\n[[entertainment/index|Library]]"
-    },
-    {
-      "id": "alcest-kodama",
-      "type": "music",
-      "title": "Kodama",
-      "status": "to_listen",
-      "artist": "Alcest",
-      "year": 2016,
-      "rank": 6,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/24/8c/15/248c15c7-d25c-6ba5-d058-a44ba229834b/541.jpg/600x600bb.jpg",
-      "links": {
-        "apple": "https://music.apple.com/us/album/kodama/1556093973?uo=4"
-      },
-      "tags": [
-        "blackgaze",
-        "shoegaze",
-        "post-metal",
-        "metal"
-      ],
-      "notes": "Blackgaze. Johan Karlund's top 7 countdown.\n\nRelated: [[entertainment/music/mol-jord|Mol Jord]] · [[entertainment/music/deafheaven-sunbather|Deafheaven Sunbather]]\n\n[[entertainment/index|Library]]"
-    },
-    {
-      "id": "ultar-pantheon-mmxix",
-      "type": "music",
-      "title": "Pantheon MMXIX",
-      "status": "to_listen",
-      "artist": "Ultar",
-      "year": 2019,
-      "rank": 7,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f8/99/7b/f8997b78-d935-9fba-8c88-34f51ed4e6e8/614409999911_cover.jpg/600x600bb.jpg",
-      "links": {
-        "apple": "https://music.apple.com/us/album/pantheon-mmxix/1733570644?uo=4"
-      },
-      "tags": [
-        "blackgaze",
-        "post-metal",
-        "metal"
-      ],
-      "notes": "Blackgaze. Johan Karlund's top 7 countdown.\n\nRelated: [[entertainment/music/alcest-kodama|Alcest Kodama]] · [[entertainment/music/somn-the-all-devouring|Somn The All Devouring]]\n\n[[entertainment/index|Library]]"
+      "notes": "Gentle, quietly magical picture book by Akiko Miyakoshi (Kids Can Press,\n2024). Little Shrew is diligent in all parts of his life — a sweet story\nabout appreciating life's little pleasures.\n\n**Buy for Tuesday** (daughter) — picture book for a ~2-year-old.\n\nRelated: [[entertainment/index|Library]]"
     },
     {
       "id": "coyote-vs-acme",
@@ -139,60 +40,24 @@
       "notes": "Coyote vs. Acme — the long-delayed Looney Tunes movie where Wile E. Coyote\nsues Acme for the defective products that keep backfiring on him. Live-action\nwith animated characters, John Cena as the Acme lawyer.\n\n**In theaters Aug 28, 2026.** Not yet on streaming/VOD — notify Peter the\nmoment it's available for digital rental or on a streaming service.\n\n[[entertainment/index|Library]]"
     },
     {
-      "id": "false-memory",
-      "type": "tv",
-      "title": "False Memory",
+      "id": "hope",
+      "type": "movie",
+      "title": "Hope",
       "status": "to_watch",
-      "artist": "Memory Management Bureau (记忆管理局)",
+      "artist": "Na Hong-jin",
       "year": 2026,
-      "cover": "https://i.ytimg.com/vi/yfz2c9LE6ew/maxresdefault.jpg",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/0/03/Hope_%282026_film%29_poster.png",
       "links": {
-        "youtube": "https://www.youtube.com/watch?v=EWGlwtMQFZA"
+        "justwatch": "https://www.justwatch.com/us/movie/hope-2026"
       },
       "tags": [
-        "donghua",
-        "anime",
+        "movie",
         "scifi",
-        "chinese"
+        "action",
+        "thriller",
+        "korean"
       ],
-      "notes": "Chinese donghua. Protagonists delve into people's memories to erase/heal the monsters that live there. Streaming free on YouTube.\n\n[[entertainment/index|Library]]"
-    },
-    {
-      "id": "thredd-its-lovely-come-on-in-reworks",
-      "type": "music",
-      "title": "It's Lovely, Come On In REWORKS",
-      "status": "to_listen",
-      "artist": "thredd",
-      "year": 2026,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/3a/fd/ef3afdb8-acc5-43ff-fedc-6d64e36025d2/193436481298_threddremixalbumK.jpg/600x600bb.jpg",
-      "links": {
-        "apple": "https://music.apple.com/us/album/its-lovely-come-on-in-reworks/6795595945?uo=4"
-      },
-      "tags": [
-        "cold-pop",
-        "shoegaze",
-        "trip-hop",
-        "alt-pop",
-        "synth"
-      ],
-      "notes": "South London trio. \"Cold pop\" — moody shoegaze + trip-hop rhythms + brooding atmospherics. Peter flagged the band (Sep 2026) for future playlists; debut REWORKS album dropped Aug 14, 2026.\n\nRelated: [[entertainment/music/alcest-kodama|Kodama]] · [[entertainment/music/mol-jord|Mol Jord]]\n\n[[entertainment/index|Library]]"
-    },
-    {
-      "id": "little-shrew",
-      "type": "book",
-      "title": "Little Shrew",
-      "status": "to_buy",
-      "year": 2024,
-      "cover": "https://covers.openlibrary.org/b/isbn/9781525313035-L.jpg",
-      "links": {
-        "publisher": "https://kidscanpress.com/product/little-shrew/"
-      },
-      "tags": [
-        "picture-book",
-        "kids",
-        "for-tuesday"
-      ],
-      "notes": "Gentle, quietly magical picture book by Akiko Miyakoshi (Kids Can Press,\n2024). Little Shrew is diligent in all parts of his life — a sweet story\nabout appreciating life's little pleasures.\n\n**Buy for Tuesday** (daughter) — picture book for a ~2-year-old.\n\nRelated: [[entertainment/index|Library]]"
+      "notes": "Hope (2026) — Na Hong-jin's first film since The Wailing (2016). A South\nKorean village police chief and his rookie deputy defend their community\nfrom a mysterious creature after wildfires sever communications — which\nturns out to be an alien searching for its offspring. Stars Hwang Jung-min,\nZo In-sung, Hoyeon, Taylor Russell, Alicia Vikander, and Michael Fassbender.\n\nReleased in US theaters Sep 9, 2026. In theaters now — watch for\nstreaming/rental.\n\n[[entertainment/index|Library]]"
     },
     {
       "id": "tony",
@@ -215,6 +80,182 @@
         "anthony-bourdain"
       ],
       "notes": "Tony (2026) — A24 biopic about a 19-year-old Anthony Bourdain (Dominic Sessa)\nwho travels to Provincetown and stumbles into the chaotic world of a\nrestaurant kitchen, setting off the journey that made him a legend.\n\nReleased Aug 21, 2026. **94% on Rotten Tomatoes.** In theaters now — watch\nfor streaming/rental.\n\n[[entertainment/index|Library]]"
+    },
+    {
+      "id": "you-can-see-everything",
+      "type": "movie",
+      "title": "You Can See Everything",
+      "status": "to_watch",
+      "artist": "Nathan Fielder, Lance Oppenheim",
+      "year": 2026,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/9/9e/You_Can_See_Everything_Teaser_Poster.jpg",
+      "links": {
+        "justwatch": "https://www.justwatch.com/us/movie/you-can-see-everything"
+      },
+      "tags": [
+        "movie",
+        "documentary",
+        "true-crime",
+        "a24",
+        "nathan-fielder"
+      ],
+      "notes": "You Can See Everything (2026) — Nathan Fielder and Lance Oppenheim's\ndocumentary following Elizabeth Holmes in the 34 days before she began her\nfederal prison sentence, continuing over three years. Holmes invited Fielder\nand Oppenheim into her home to document her final days of freedom.\n\nFeatures Amanda Seyfried, who portrayed Holmes in *The Dropout*, joining the\nfilm in meta fashion to dramatize Holmes's contemporary life.\n\nPremiered as a secret screening at Telluride Film Festival on Sep 6, 2026.\nTheatrical release by A24 on Oct 16, 2026.\n\n[[entertainment/index|Library]]"
+    },
+    {
+      "id": "alcest-kodama",
+      "type": "music",
+      "title": "Kodama",
+      "status": "to_listen",
+      "artist": "Alcest",
+      "year": 2016,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/24/8c/15/248c15c7-d25c-6ba5-d058-a44ba229834b/541.jpg/600x600bb.jpg",
+      "links": {
+        "apple": "https://music.apple.com/us/album/kodama/1556093973?uo=4"
+      },
+      "tags": [
+        "blackgaze",
+        "shoegaze",
+        "post-metal",
+        "metal"
+      ],
+      "notes": "Blackgaze. Johan Karlund's top 7 countdown.\n\nRelated: [[entertainment/music/mol-jord|Mol Jord]] · [[entertainment/music/deafheaven-sunbather|Deafheaven Sunbather]]\n\n[[entertainment/index|Library]]",
+      "rank": 6
+    },
+    {
+      "id": "mol-jord",
+      "type": "music",
+      "title": "Jord",
+      "status": "to_listen",
+      "artist": "Møl",
+      "year": 2018,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4e/d4/88/4ed4884a-888a-2694-d7bc-22f78e2c83d8/cover.jpg/600x600bb.jpg",
+      "links": {
+        "apple": "https://music.apple.com/us/album/jord/1544736370?uo=4"
+      },
+      "tags": [
+        "blackgaze",
+        "post-metal",
+        "metal"
+      ],
+      "notes": "Blackgaze. Johan Karlund's top 7 countdown.\n\nRelated: [[entertainment/music/alcest-kodama|Alcest Kodama]] · [[entertainment/music/deafheaven-sunbather|Deafheaven Sunbather]]\n\n[[entertainment/index|Library]]",
+      "rank": 5
+    },
+    {
+      "id": "show-me-a-dinosaur-plantgazer",
+      "type": "music",
+      "title": "Plantgazer",
+      "status": "to_listen",
+      "artist": "Show Me A Dinosaur",
+      "year": 2020,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ca/dd/42/cadd4287-fd03-f84b-aec1-752df850b466/859743250261_cover.jpg/600x600bb.jpg",
+      "links": {
+        "apple": "https://music.apple.com/us/album/plantgazer/1537945823?uo=4"
+      },
+      "tags": [
+        "blackgaze",
+        "post-metal",
+        "shoegaze",
+        "metal"
+      ],
+      "notes": "Blackgaze. Johan Karlund's top 7 countdown.\n\nRelated: [[entertainment/music/deafheaven-sunbather|Deafheaven Sunbather]] · [[entertainment/music/somn-the-all-devouring|Somn The All Devouring]]\n\n[[entertainment/index|Library]]",
+      "rank": 2
+    },
+    {
+      "id": "so-hideous-laurestine",
+      "type": "music",
+      "title": "Laurestine",
+      "status": "to_listen",
+      "artist": "So Hideous",
+      "year": 2015,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/95/81/66/9581666d-4175-dc8f-cf41-52a163496b7d/656191925228.jpg/600x600bb.jpg",
+      "links": {
+        "apple": "https://music.apple.com/us/album/laurestine/1019458242?uo=4"
+      },
+      "tags": [
+        "blackgaze",
+        "post-metal",
+        "metal",
+        "orchestral"
+      ],
+      "notes": "Blackgaze. Johan Karlund's top 7 countdown.\n\nRelated: [[entertainment/music/somn-the-all-devouring|Somn The All Devouring]] · [[entertainment/music/deafheaven-sunbather|Deafheaven Sunbather]]\n\n[[entertainment/index|Library]]",
+      "rank": 3
+    },
+    {
+      "id": "somn-the-all-devouring",
+      "type": "music",
+      "title": "The All-Devouring",
+      "status": "to_listen",
+      "artist": "Somn",
+      "year": 2019,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/08/7b/98/087b98b0-c033-e6b2-a7f6-9cc8cee88725/193428596894.jpg/600x600bb.jpg",
+      "links": {
+        "apple": "https://music.apple.com/us/album/the-all-devouring/1450304351?uo=4"
+      },
+      "tags": [
+        "blackgaze",
+        "post-metal",
+        "metal"
+      ],
+      "notes": "Blackgaze. Johan Karlund's top 7 countdown.\n\nRelated: [[entertainment/music/so-hideous-laurestine|So Hideous Laurestine]] · [[entertainment/music/show-me-a-dinosaur-plantgazer|Show Me A Dinosaur Plantgazer]]\n\n[[entertainment/index|Library]]",
+      "rank": 4
+    },
+    {
+      "id": "thredd-its-lovely-come-on-in-reworks",
+      "type": "music",
+      "title": "It's Lovely, Come On In REWORKS",
+      "status": "to_listen",
+      "artist": "thredd",
+      "year": 2026,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/3a/fd/ef3afdb8-acc5-43ff-fedc-6d64e36025d2/193436481298_threddremixalbumK.jpg/600x600bb.jpg",
+      "links": {
+        "apple": "https://music.apple.com/us/album/its-lovely-come-on-in-reworks/6795595945?uo=4"
+      },
+      "tags": [
+        "cold-pop",
+        "shoegaze",
+        "trip-hop",
+        "alt-pop",
+        "synth"
+      ],
+      "notes": "South London trio. \"Cold pop\" — moody shoegaze + trip-hop rhythms + brooding atmospherics. Peter flagged the band (Sep 2026) for future playlists; debut REWORKS album dropped Aug 14, 2026.\n\nRelated: [[entertainment/music/alcest-kodama|Kodama]] · [[entertainment/music/mol-jord|Mol Jord]]\n\n[[entertainment/index|Library]]"
+    },
+    {
+      "id": "ultar-pantheon-mmxix",
+      "type": "music",
+      "title": "Pantheon MMXIX",
+      "status": "to_listen",
+      "artist": "Ultar",
+      "year": 2019,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f8/99/7b/f8997b78-d935-9fba-8c88-34f51ed4e6e8/614409999911_cover.jpg/600x600bb.jpg",
+      "links": {
+        "apple": "https://music.apple.com/us/album/pantheon-mmxix/1733570644?uo=4"
+      },
+      "tags": [
+        "blackgaze",
+        "post-metal",
+        "metal"
+      ],
+      "notes": "Blackgaze. Johan Karlund's top 7 countdown.\n\nRelated: [[entertainment/music/alcest-kodama|Alcest Kodama]] · [[entertainment/music/somn-the-all-devouring|Somn The All Devouring]]\n\n[[entertainment/index|Library]]",
+      "rank": 7
+    },
+    {
+      "id": "false-memory",
+      "type": "tv",
+      "title": "False Memory",
+      "status": "to_watch",
+      "artist": "Memory Management Bureau (记忆管理局)",
+      "year": 2026,
+      "cover": "https://i.ytimg.com/vi/yfz2c9LE6ew/maxresdefault.jpg",
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=EWGlwtMQFZA"
+      },
+      "tags": [
+        "donghua",
+        "anime",
+        "scifi",
+        "chinese"
+      ],
+      "notes": "Chinese donghua. Protagonists delve into people's memories to erase/heal the monsters that live there. Streaming free on YouTube.\n\n[[entertainment/index|Library]]"
     }
   ]
 }
