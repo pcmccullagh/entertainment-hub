@@ -41,13 +41,20 @@ function card(e) {
   const links = Object.entries(e.links || {})
     .map(([k, v]) => `<a href="${v}" target="_blank" rel="noopener">${LINK_LABELS[k] || k}</a>`)
     .join("");
-  const notes = e.notes ? `<p class="card-notes">${e.notes}</p>` : "";
+  // Prefer the Last.fm-grounded description over the terser source notes/
+  // context blurb when both exist -- richer and more consistently written.
+  const body = e.description || e.notes;
+  const notes = body ? `<p class="card-notes">${body}</p>` : "";
   const badge = e.rank ? ` · #${e.rank}` : "";
+  const genre = e.genre ? `<span class="genre">${e.genre}</span>` : "";
   return `
     <article class="card">
       ${e.cover ? `<img class="cover" src="${e.cover}" alt="${e.title}" loading="lazy">` : `<div class="cover"></div>`}
       <div class="card-body">
-        <span class="badge">${(TYPE_LABELS[e.type] || e.type)}${badge}</span>
+        <div class="card-tags">
+          <span class="badge">${(TYPE_LABELS[e.type] || e.type)}${badge}</span>
+          ${genre}
+        </div>
         <h3 class="card-title">${e.title}</h3>
         ${sub ? `<p class="card-sub">${sub}${e.year ? " · " + e.year : ""}</p>` : ""}
         ${notes}
